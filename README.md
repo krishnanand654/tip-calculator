@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/tip-calculator-app-using-reactjs-_R5acdgENF)
+- Live Site URL: [Add live site URL here](https://sensational-bombolone-377907.netlify.app)
 
 ## My process
 
@@ -49,7 +49,7 @@ Users should be able to:
 ### What I learned
 
 ```js
-  useEffect(() => {}
+useEffect(() => {}
 ```
 
 ```js
@@ -58,9 +58,9 @@ total = total.toFixed(2);
 ```
 
 ```js
-  const [Bill, setBill] = useState("");
+const [Bill, setBill] = useState("");
 
-  onChange={(e) => setBill(e.target.value)}
+onChange={(e) => setBill(e.target.value)}
 ```
 
 ### Continued development
