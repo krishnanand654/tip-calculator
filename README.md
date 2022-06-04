@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/tip-calculator-app-using-reactjs-_R5acdgENF)
+- Solution URL: [https://www.frontendmentor.io/solutions/tip-calculator-app-using-reactjs-_R5acdgENF](https://www.frontendmentor.io/solutions/tip-calculator-app-using-reactjs-_R5acdgENF)
 - Live Site URL: [Add live site URL here](https://sensational-bombolone-377907.netlify.app)
 
 ## My process
